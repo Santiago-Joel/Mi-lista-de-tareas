@@ -24,9 +24,4 @@ export const TASKS:Task[] = [
         day: 'Agosto 5 a las 21:00',
         reminder: false
     }
-
-    
-  
-
-
 ]
